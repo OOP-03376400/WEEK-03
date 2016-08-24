@@ -11,5 +11,10 @@ namespace week3_Class1
         static void Main(string[] args)
         {
         }
+
+        class YourClassName  // add our new class to project
+        {
+
+        }
     }
 }
